@@ -1,0 +1,3 @@
+C:/Users/sajja/CLionProjects/SimpleCalculator/cmake-build-debug/CMakeFiles/SimpleCalculator.dir
+C:/Users/sajja/CLionProjects/SimpleCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sajja/CLionProjects/SimpleCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
